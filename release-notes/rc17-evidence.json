@@ -40,5 +40,18 @@
   "actual_rc17_ui_update_completed": false,
   "installed_collector_changed": false,
   "stable_channel_changed": false,
-  "raw_data_published": false
+  "raw_data_published": false,
+  "ci_workflows_succeeded": 13,
+  "ci_final_source_commit": "a9e57214a44738b757ff01328014f8704512119d",
+  "live_installed_helper_check": {
+    "code": "UPDATE_AVAILABLE",
+    "version": "0.3.23-iracing-rc.17",
+    "channel": "prerelease"
+  },
+  "server_version": "0.34.1",
+  "schema_migrations": 36,
+  "normal_server_restart_verified": true,
+  "installed_collector_version": "0.3.23-iracing-rc.16",
+  "installed_settings_unchanged": true,
+  "final_verified_at_utc": "2026-11-10T10:14:45.079524+00:00"
 }

@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "verified_at_utc": "2026-11-10T13:06:04.377548+00:00",
+  "collector_version": "0.3.23-iracing-rc.17",
+  "installed_dll_sha256": "b71f4e6ea51dc643b56b5e53355899e91aaf4043f14393dfc8dc438db3d3bd88",
+  "installed_helper_sha256": "2ff9987ea2da448b822b8670c175d6e0ce9e4bde11cf06f5ac6761e2eb95cbd4",
+  "installation": {
+    "via_simhub": true,
+    "completed_at_utc": "2026-11-10T10:30:15.878247+00:00",
+    "completed_at_europe_berlin": "2026-11-10T11:30:15.878247+01:00",
+    "helper_status": "UPDATE_INSTALLED",
+    "transaction_state": "complete",
+    "exact_published_package_and_dll": true,
+    "startup_acknowledgement_matches_current_process": true,
+    "rc16_backup_hash_verified": true,
+    "settings_and_protected_queues_unchanged": true,
+    "simhub_sdk_unchanged": true
+  },
+  "runtime": {
+    "responding": true,
+    "collector_first_rc17_start_utc": "2026-11-10T10:30:13.6603622Z",
+    "collector_latest_start_utc": "2026-11-10T10:43:37.2022637Z",
+    "collector_rc17_starts": 2,
+    "plugin_manager_reload_logged": true,
+    "collector_errors_since_rc17_start": 0,
+    "collector_warnings_since_rc17_start": 0,
+    "simhub_warnings_or_errors": 0,
+    "api_access_http_status": 200,
+    "recordings_enabled": true,
+    "published_channel_status": "NO_NEWER_VERSION"
+  },
+  "recordings": {
+    "pending_chunks": 0,
+    "uploaded_markers": 28,
+    "ordinary_queue_files": 0,
+    "installed_reader_original_files_checked": 6,
+    "installed_reader_chunks": 28,
+    "original_frames": 130729,
+    "retained_snapshots": 4249,
+    "all_clocks_match_independent_extraction": true,
+    "resume_checks": 5,
+    "payloads_valid": 28,
+    "original_ibts_unchanged": true,
+    "post_requests_by_this_check": 0
+  },
+  "limits": {
+    "fresh_driving_session_observed": false,
+    "new_closed_ibt_upload_observed": false,
+    "fresh_drive_acceptance_completed": false,
+    "server_changes": 0,
+    "installation_changes_by_this_check": 0
+  }
+}

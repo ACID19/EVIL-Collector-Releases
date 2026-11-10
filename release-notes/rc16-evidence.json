@@ -27,5 +27,31 @@
   "fresh_rc16_drive_completed": false,
   "live_recording_upload_completed": false,
   "stable_channel_changed": false,
-  "automatic_install_performed": false
+  "automatic_install_performed": false,
+  "actual_ui_update_completed": true,
+  "post_installation": {
+    "verified_at_utc": "2026-11-10 08:52:29 UTC",
+    "update_completed_at_utc": "2026-11-10T08:44:42.6969376Z",
+    "helper_result": "UPDATE_INSTALLED",
+    "journal_state": "complete",
+    "exact_release_dll_installed": true,
+    "startup_acknowledgement_verified": true,
+    "simhub_process_responding": true,
+    "backup_integrity_verified": true,
+    "settings_and_protected_queues_unchanged": true,
+    "simhub_sdk_and_helper_unchanged": true,
+    "collector_error_count_since_start": 0,
+    "simhub_start_log_warning_or_error_count": 0,
+    "recording_capability_http_status": 200,
+    "recording_upload_http_status": 409,
+    "recording_chunks_retained": 28,
+    "recording_chunks_api_valid": 28,
+    "original_recordings_retained": 6,
+    "original_frames_covered": 130729,
+    "all_recordings_predate_update": true,
+    "originals_share_one_native_identity": true,
+    "exact_409_subtype_confirmed": false,
+    "recording_association_resolved": false,
+    "fresh_driving_session_observed": false
+  }
 }
